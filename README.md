@@ -1,2 +1,2 @@
-# crud-apollo-server
+# be-apollo-server
 
